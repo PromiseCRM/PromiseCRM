@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                // Define a versão de JavaScript que será gerada
+    "module": "commonjs",           // Usar CommonJS para módulos
+    "outDir": "./dist",             // Pasta de saída dos arquivos compilados
+    "rootDir": "./src",             // Diretório com os arquivos fontes
+    "esModuleInterop": true,        // Interoperabilidade entre CommonJS e ES Modules
+    "strict": true,                 // Habilitar verificações de tipo estritas
+    "skipLibCheck": true            // Ignorar checagem de tipos nas bibliotecas
+  },
+  "include": ["src/**/*"]           // Incluir todos os arquivos na pasta src
+}

@@ -35,7 +35,7 @@ Follow these steps to set up and run PromiseCRM:
     ```
 
 5. **Access the application:**
-    Open your web browser and navigate to `http://localhost:3000`.
+    Open your web browser and navigate to `http://localhost:8000`.
 
 ### Configuration
 

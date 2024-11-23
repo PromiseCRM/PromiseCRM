@@ -5,7 +5,7 @@ import errorHandler from './exceptions';
 import initializeRoutes from './routes';
 
 const app: FastifyInstance = Fastify({logger: true});
-const port = 3000;
+const port = 8000;
 
 (async () => {
     try {

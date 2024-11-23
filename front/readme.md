@@ -13,7 +13,7 @@
     ```
 2. Navigate to the front-end directory:
     ```bash
-    cd your-repository/front
+    cd PromiseCRM/front
     ```
 3. Install the dependencies:
     ```bash
